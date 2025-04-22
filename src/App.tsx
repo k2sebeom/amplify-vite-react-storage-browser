@@ -1,7 +1,9 @@
 import { StorageBrowser } from "./components/StorageBrowser";
 
 function App() {
-  return <StorageBrowser />
+  return (
+    <StorageBrowser />
+  )
 }
 
 export default App;
